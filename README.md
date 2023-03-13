@@ -1,4 +1,4 @@
-# Group 49 - {Political Rappers}
+# Group 49 - Mental Health in Tech
 
 ## Milestones
 
@@ -9,15 +9,25 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-We hope that we as a group get better insight as to how music can be used by U.S political candidates. We found this interesting because on paper, music is primarily used as entertainment and it's intriguing to see that politics can be involved with how certain music tracks are used. A particular question that we would love to explore would be how certain music tracks can affect a political candidate's reception on them. Perhaps if a song that sounds joyful is used in a political campaign could that affect the candidate's chances of winning that campaign? Or could it be because of the correct time and place that the music track was played that could affect the candidate's chances? These types of questions are the things that we would want to be answered. Ultimately, we want to see how a music track can directly impact a candidate's chances of winning a campaign or not.
+We are intrested by the dataset we have come across because we firmly believe that mental health can significantly impact individuals across various fields, including the tech industry. The tech industry is often considered an attractive career path due to its high-paying salaries and flexible working hours. However, despite these benefits, it is inevitable that people working in the industry will experience health issues that can affect their mental wellbeing.
+
+Our interest in this dataset stems from several questions we have about the relationship between mental health and technology. For example, we would like to investigate whether age plays a significant role in one's mental health, and if so, at what point in their career do individuals become more susceptible to mental health issues. Additionally, we are curious to know if gender also plays a role in mental health, and if there are differences in the experiences of men and women in the tech industry.
+
+Ultimately, our goal is to reach a conclusion that acknowledges the prevalence of mental health issues among individuals working in the tech industry and to identify the factors that contribute to this phenomenon. By analyzing this dataset, we hope to gain insight into the experiences of individuals working in the tech industry and provide recommendations for improving mental health support in the workplace.
 
 ## Describe your dataset in about 150-200 words
 
-Our dataset is from data.world and was created by FiveThirtyEight. FiveThirtyEight is a reputable and trustworthy website that specializes primarily in gathering polls throughout the United States. These polls are then analyzed through statistics and post on their website for others to view. Our dataset includes a list of U.S political candidates and the music that they used. Through their choice of music, the dataset contains whether or not there was a negative or positive reception to how it was used. As of writing, this particular data set was collected and finalized in 2016. It is 2023 so this dataset is approximately 7 years old. The purpose of analyzing this data set is because due to genuine interest in the topic. We want to see how the masses react to the choice of music made by U.S political candidates and whether or not that has a significant impact on other people's decision.
+We have selected a dataset from Kaggle.com, a reputable website that offers a diverse range of datasets for researchers to explore. The specific dataset we have chosen is titled "Mental Health in Tech Survey" and is available under the CC BY-SA 4.0 license, meaning that we are free to use it for our project.
+The dataset was created by Open Sourcing Mental Illness, LTD and is based on a survey conducted in 2014 that aimed to measure attitudes towards mental health in the tech workplace. While the data is slightly outdated as of 2023, being last updated in 2017, it is still a valuable resource for understanding mental health in the tech industry.
+
+It is important to note that due to the date listed above, the data does not reflect the potential impact of the COVID-19 pandemic on mental health in the tech industry. However, the insights gleaned from this dataset can still provide valuable information for researchers and organizations looking to improve mental health support in the tech industry.
+
+We are excited to delve into this dataset and analyze the attitudes and experiences of individuals in the tech industry towards mental health. By doing so, we hope to gain a better understanding of the challenges faced by those working in this field and provide actionable recommendations for promoting better mental health practices in the workplace. This dataset will be a crucial component of our research, and we are grateful for the opportunity to work with it.
 
 ## Team Members
 
 - Anilov Laxina: I love to play music on my own time as well as reading science fiction books!
+  
 - Harshitha Bannur: I enjoy writing short stories in my free time and running too!
   
 ## Images
@@ -27,4 +37,3 @@ Our dataset is from data.world and was created by FiveThirtyEight. FiveThirtyEig
 <img src ="images/test.png" width="100px">
 
 ## References
-
