@@ -2,10 +2,13 @@
 
 ## Milestones
 
-**Note: Not sure what to do exactly here so I'll make a check-list of things that we have completed already:**
-
-- [x] Milestone 1 - Form Team and Find Data Set (100%)
+**Checklist:**
+- [x] Milestone 1 - Form Team and Find Data Set
 - [x] Milestone 2 - Load your dataset, explain it, and define your research questions
+- [x] Milestone 3 - Exploratory Data Analysis (EDA)
+- [x] Milestone 4 - Visualizations, Analysis, and Pipeline
+- [ ] Milestone 5 - Present your Dashboard!
+- [ ] Milestone 6 - Address Feedback and Refine project
 
 ## Describe your topic/interest in about 150-200 words
 
