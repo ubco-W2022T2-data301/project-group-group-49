@@ -34,9 +34,11 @@ We are excited to delve into this dataset and analyze the attitudes and experien
 - Harshitha Bannur: I enjoy writing short stories in my free time and running too!
   
 ## Images
+Analysis 1 Dashboard (via Tableau):
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
+![Analysis 1 Dashboard](images/Analysis1-Dashboard.png)
 
 ## References
+
+[Mental Health in Tech Dataset](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)  
+[Tableau](https://www.tableau.com/)

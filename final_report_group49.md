@@ -24,6 +24,12 @@ Finally, we then found the number of occurrences between each age group in the U
 
 ![Age Ranges](images/Analysis1-Age-Range.png)
 
+From these two visualizations (U.S states and Age Ranges) we can see that there is almost 400 occurrences of Mental Health issues between individuals aged 26 - 35. In terms of states, California seems to be the one with the most occurrences of mental health issues.
+
+With this information, we can make the conclusion below.
+
+**Note:** For more informations or the inner workings on how this was performed, please see the [Analysis 1 Jupyter Notebook](analysis/analysis1.ipynb)
+
 ## Question 2 (Analysis 2/EDA)
 
 {TO-DO}
