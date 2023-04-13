@@ -1,0 +1,9 @@
+Gender,response to mental_health_consequence,Count
+Female,Maybe,59
+Female,No,44
+Female,Yes,37
+Male,Maybe,171
+Male,No,200
+Male,Yes,92
+Non-binary_or_trans_or_other,Maybe,4
+Non-binary_or_trans_or_other,Yes,2
