@@ -5,11 +5,11 @@
 **Note: Not sure what to do exactly here so I'll make a check-list of things that we have completed already:**
 
 - [x] Milestone 1 - Form Team and Find Data Set (100%)
-- [x] Milestone 2 - Load your dataset, explain it, and define your research questions (TBA)
+- [x] Milestone 2 - Load your dataset, explain it, and define your research questions
 
 ## Describe your topic/interest in about 150-200 words
 
-We are intrested by the dataset we have come across because we firmly believe that mental health can significantly impact individuals across various fields, including the tech industry. The tech industry is often considered an attractive career path due to its high-paying salaries and flexible working hours. However, despite these benefits, it is inevitable that people working in the industry will experience health issues that can affect their mental wellbeing.
+We are intersted by the dataset we have come across because we firmly believe that mental health can significantly impact individuals across various fields, including the tech industry. The tech industry is often considered an attractive career path due to its high-paying salaries and flexible working hours. However, despite these benefits, it is inevitable that people working in the industry will experience health issues that can affect their mental wellbeing.
 
 Our interest in this dataset stems from several questions we have about the relationship between mental health and technology. For example, we would like to investigate whether age plays a significant role in one's mental health, and if so, at what point in their career do individuals become more susceptible to mental health issues. Additionally, we are curious to know if gender also plays a role in mental health, and if there are differences in the experiences of men and women in the tech industry.
 

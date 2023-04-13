@@ -1,0 +1,610 @@
+Gender,Country,treatment,work_interfere,tech_company,benefits,care_options,wellness_program,seek_help,mental_health_consequence,coworkers,supervisor,mental_health_interview,mental_vs_physical
+Female,United States,Yes,Often,Yes,Yes,Not sure,No,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,No,Don't know,Don't know,No,Some of them,Yes,Yes,Don't know
+Male,United States,No,Sometimes,Yes,Yes,Not sure,No,Don't know,No,Yes,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Yes,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,No,Some of them,Yes,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,No,Don't know,No,Yes,Yes,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Not sure,No,No,No,Yes,Some of them,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,Yes,No,No
+Male,United States,No,Sometimes,Yes,Yes,Not sure,Yes,Don't know,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,No,Never,Yes,No,No,No,No,No,Some of them,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Not sure,Don't know,Yes,No,Yes,Yes,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,No,Yes,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,Don't know,No,Some of them,No,No,No
+Male,United States,No,Rarely,Yes,No,Yes,No,No,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,Maybe,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Yes
+Male,United States,Yes,Rarely,Yes,No,Yes,No,No,No,Yes,Yes,Maybe,Don't know
+Male,United States,No,,Yes,Yes,Yes,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Maybe,Yes
+Male,United States,No,,Yes,Yes,Not sure,Don't know,Yes,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,No,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,No,No,No,No,No,Yes,Yes,Maybe,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,No,No,Don't know,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,No,Yes,No,No,Maybe,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,Maybe,Don't know
+Male,United States,No,,Yes,Don't know,No,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Yes,No,Don't know
+Non-binary_or_trans_or_other,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Maybe,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,No,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,No,Some of them,Yes,Yes,No
+Male,United States,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Some of them,No,No,No
+Male,United States,No,Sometimes,Yes,Yes,No,Don't know,Yes,Maybe,Some of them,Some of them,Maybe,Yes
+Male,United States,No,Rarely,Yes,No,No,No,No,Maybe,Some of them,No,No,Don't know
+Non-binary_or_trans_or_other,United States,No,Rarely,Yes,Yes,Yes,No,No,Maybe,Yes,Yes,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Yes,Don't know,Maybe,Some of them,Some of them,No,Yes
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Sometimes,Yes,No,No,No,No,No,Yes,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Yes,Some of them,No,No,No
+Male,United States,No,Sometimes,Yes,Yes,Yes,No,Yes,No,Yes,Some of them,Maybe,Yes
+Female,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,No,No,No,No,Yes,No,No,No,No
+Male,United States,No,,Yes,Don't know,Not sure,No,No,No,Some of them,Yes,Maybe,No
+Female,United States,Yes,Rarely,Yes,Yes,Not sure,No,Don't know,Yes,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,No,,Yes,Don't know,No,No,Don't know,No,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No
+Male,United States,No,,Yes,Don't know,No,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,No,Yes,Yes,Maybe,No
+Male,United States,No,Rarely,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Often,Yes,No,Yes,No,No,No,Yes,Yes,Maybe,Yes
+Female,United States,No,Never,Yes,Yes,Not sure,Don't know,Don't know,Maybe,No,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,No,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,Never,Yes,Yes,Not sure,Yes,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Rarely,Yes,Yes,Not sure,No,No,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,No,Some of them,Yes,No,No
+Male,United States,No,Never,Yes,Yes,No,No,No,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+Male,United States,No,Never,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,No,No,No,No,Some of them,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,Don't know,No,Some of them,Yes,Maybe,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,No,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,Yes,Yes,No,Yes
+Male,United States,No,Often,Yes,Yes,No,No,No,Maybe,No,No,No,Don't know
+Male,United States,No,Never,Yes,Yes,No,Yes,Yes,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Yes,Some of them,No,No
+Male,United States,No,Rarely,Yes,No,Yes,No,No,Maybe,Yes,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Yes,Yes,Maybe,Don't know
+Male,United States,Yes,Often,Yes,Yes,Not sure,No,No,No,Yes,Yes,No,Don't know
+Female,United States,No,,Yes,Don't know,No,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Some of them,Yes,No,Don't know
+Female,United States,No,,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,No,,Yes,Don't know,Not sure,No,Don't know,Maybe,No,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,No,No,No,Some of them,Some of them,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,No,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,No,No,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,No,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,No,No,Yes,No,Some of them,Some of them,No,Don't know
+Male,United States,No,Rarely,Yes,Don't know,No,No,No,Maybe,Some of them,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,No,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,No,No,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,No,Yes,No,No,Maybe,Yes,Yes,No,No
+Female,United States,No,,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Don't know,Not sure,No,Don't know,Maybe,No,Some of them,No,Don't know
+Female,United States,Yes,Often,Yes,Yes,Not sure,Don't know,Don't know,No,Yes,Yes,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,No,No,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Not sure,No,Don't know,Yes,No,No,No,No
+Male,United States,No,,Yes,Yes,No,No,No,Yes,Some of them,No,Maybe,No
+Female,United States,Yes,Never,Yes,Yes,Not sure,Don't know,No,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Rarely,Yes,No,No,No,No,No,Some of them,Yes,No,Don't know
+Female,United States,No,Never,Yes,Don't know,Not sure,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Rarely,Yes,Yes,No,No,No,No,Some of them,Yes,No,No
+Male,United States,No,,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,No,No,No,No,Some of them,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,No,Not sure,No,No,Maybe,Some of them,Some of them,Maybe,Don't know
+Male,United States,Yes,Often,Yes,No,Yes,No,No,Maybe,Yes,Yes,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,No,Don't know,No,Some of them,Yes,No,Don't know
+Female,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Female,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Yes,Some of them,Some of them,No,No
+Female,United States,Yes,Sometimes,Yes,No,No,Don't know,Don't know,No,Some of them,No,No,Don't know
+Male,United States,No,,Yes,Yes,Not sure,No,No,Yes,No,Some of them,No,Don't know
+Female,United States,No,,Yes,Yes,No,No,No,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Rarely,Yes,Don't know,No,No,No,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Yes,No,Some of them,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,No,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,Don't know,No,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Rarely,Yes,No,Yes,No,No,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,Not sure,No,Don't know,Maybe,Some of them,No,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,Yes,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,No,Maybe,No
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Yes,Yes,No,Don't know
+Male,United States,No,,Yes,Yes,No,No,Don't know,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,No,Some of them,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,Yes,Yes,Maybe,Don't know
+Male,United States,No,Never,Yes,No,Yes,No,Yes,No,Some of them,Yes,No,Yes
+Female,United States,Yes,Rarely,Yes,Yes,No,No,No,Maybe,Yes,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Maybe,Yes
+Male,United States,No,,Yes,No,Yes,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Yes,Yes
+Female,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,No,No,No,No,No,Yes,Yes,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,No,No,No,Yes,No,No,No,No
+Male,United States,No,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,No,Some of them,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Yes
+Female,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Some of them,No,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,No,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Never,Yes,Yes,Not sure,Don't know,Don't know,No,Yes,Some of them,No,Don't know
+Female,United States,No,,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,No,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Yes,No,Don't know,Yes,No,Some of them,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,Maybe,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Not sure,Don't know,Don't know,No,Yes,Yes,No,Yes
+Male,United States,No,Rarely,Yes,Yes,Not sure,No,Don't know,No,Some of them,Yes,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Yes,No,Yes
+Non-binary_or_trans_or_other,United States,Yes,Rarely,Yes,Yes,Not sure,No,No,Maybe,Some of them,Yes,No,Don't know
+Male,United States,No,,Yes,No,No,No,No,No,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Sometimes,Yes,Yes,Not sure,Yes,Yes,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Not sure,Don't know,Yes,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Never,Yes,No,Yes,No,No,Maybe,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,No,Don't know,Yes,No,No,No,No
+Male,United States,No,,Yes,Don't know,No,Don't know,Don't know,No,Yes,Yes,Maybe,Yes
+Female,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,No,Some of them,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,Don't know,Yes,Some of them,Some of them,No,No
+Male,United States,No,Never,Yes,Yes,Not sure,Don't know,Yes,No,Some of them,Yes,Maybe,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,No,Don't know,No,Maybe,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,No,No,No,Don't know
+Female,United States,No,Never,Yes,Yes,Yes,Yes,Yes,Maybe,No,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,Never,Yes,No,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Yes,Not sure,Yes,Yes,No,Some of them,Some of them,No,Yes
+Male,United States,No,Never,Yes,Yes,Not sure,Yes,Don't know,No,Some of them,Some of them,Maybe,Don't know
+Female,United States,No,Sometimes,Yes,Yes,Not sure,Don't know,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,Don't know,Don't know,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Female,United States,No,Sometimes,Yes,No,Yes,No,No,Yes,Some of them,Some of them,No,No
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,No,No,No,No
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Never,Yes,Don't know,No,Yes,Yes,No,No,Yes,No,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Some of them,No,No,Don't know
+Non-binary_or_trans_or_other,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Not sure,Don't know,Yes,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,No,Yes,No,No,No,Yes,Yes,Maybe,Yes
+Female,United States,No,,Yes,No,No,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,Don't know,Maybe,No,No,No,No
+Male,United States,No,,Yes,Yes,No,Yes,Yes,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,No,Yes,No,No,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,No,No,Don't know,No,Yes,Yes,Maybe,Don't know
+Female,United States,No,,Yes,Yes,No,Yes,Yes,No,No,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,Yes,No,Yes,Yes,Maybe,Yes,Some of them,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Female,United States,Yes,Rarely,Yes,Don't know,Not sure,Don't know,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Never,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Female,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Maybe,Some of them,Yes,No,Yes
+Female,United States,Yes,Never,Yes,Yes,Yes,No,Yes,Maybe,No,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,No,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,No,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Yes,Some of them,No,No,No
+Female,United States,Yes,Rarely,Yes,Yes,Yes,No,Don't know,Maybe,No,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,Yes,Some of them,No,No,Don't know
+Female,United States,No,Never,Yes,Don't know,Not sure,No,No,Maybe,No,Some of them,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,No
+Male,United States,No,,Yes,Don't know,No,No,Don't know,No,Some of them,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,No,,Yes,Yes,Yes,No,Yes,No,Some of them,Yes,Maybe,No
+Male,United States,Yes,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Some of them,No,Yes
+Male,United States,No,,Yes,Don't know,No,Don't know,Don't know,Yes,Some of them,No,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Yes
+Male,United States,No,Often,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,Don't know,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Some of them,Some of them,No,No
+Female,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,Yes,Yes
+Female,United States,Yes,Rarely,Yes,No,No,No,No,Yes,No,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,No,No,No,No,Yes,Some of them,Some of them,Yes,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,Maybe,Yes,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Rarely,Yes,Yes,No,Yes,Don't know,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,Maybe,Yes
+Female,United States,No,,Yes,Yes,No,Don't know,No,No,Some of them,Yes,No,Yes
+Male,United States,No,Often,Yes,Yes,No,No,Don't know,Yes,Some of them,Some of them,No,No
+Male,United States,No,,Yes,Yes,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,Some of them,Some of them,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,No,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,No,Yes,Yes,Maybe,Yes
+Non-binary_or_trans_or_other,United States,No,Never,Yes,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Yes,Yes,No,Yes,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,No,Yes,Yes,Maybe,Don't know
+Male,United States,No,,Yes,Yes,No,No,No,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,No,Never,Yes,Yes,Not sure,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,No,Yes,No,No,Yes,Some of them,No,No,Don't know
+Female,United States,No,Never,Yes,Don't know,Not sure,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Yes,Don't know,Yes,Some of them,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,Yes,No,No,No,No
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Yes,Maybe,No,No,No,Don't know
+Female,United States,No,,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,Maybe,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Often,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Yes,Not sure,Don't know,Don't know,No,No,Some of them,No,Yes
+Female,United States,Yes,Sometimes,Yes,No,No,Don't know,Don't know,No,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Often,Yes,Yes,Not sure,Don't know,No,Maybe,Some of them,Some of them,No,Yes
+Female,United States,Yes,Often,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,No
+Female,United States,Yes,,Yes,Yes,Yes,No,No,Maybe,No,No,No,No
+Female,United States,Yes,Sometimes,Yes,No,Yes,No,No,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,No,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,Yes,Not sure,Yes,Don't know,No,Some of them,Yes,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,No,Don't know
+Female,United States,No,Sometimes,Yes,No,No,No,No,Maybe,Some of them,No,No,Yes
+Male,United States,No,,Yes,Don't know,Not sure,No,Don't know,Maybe,No,No,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Yes,Yes,No,No,No,No
+Male,United States,No,,Yes,Don't know,No,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Not sure,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Don't know,Yes,Don't know,No,Maybe,Some of them,Yes,No,Yes
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,No,No,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Yes,Some of them,Yes,No,No
+Male,United States,Yes,Never,Yes,Don't know,No,No,Don't know,Maybe,No,No,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,No,Some of them,Some of them,No,No
+Female,United States,Yes,Rarely,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes
+Female,United States,Yes,Often,Yes,Yes,No,No,Don't know,Yes,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,Yes,Yes,Some of them,Yes,No,No
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,Don't know,Don't know,Yes,Some of them,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Yes
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,No,Some of them,No,No,Yes
+Male,United States,Yes,Rarely,Yes,Don't know,Not sure,No,Don't know,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Don't know,Yes,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,Yes,No,Yes,Some of them,Maybe,Don't know
+Male,United States,No,Sometimes,Yes,Yes,Not sure,Don't know,Don't know,Maybe,No,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,No,No,Maybe,Some of them,Yes,No,Yes
+Male,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Maybe,Don't know
+Female,United States,No,Sometimes,Yes,Don't know,Not sure,Don't know,Yes,No,Some of them,Yes,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No
+Male,United States,No,Never,Yes,No,Yes,No,No,No,No,No,No,No
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,Don't know,No,No,Yes,Yes,No,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,No,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Often,Yes,Yes,No,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,Don't know,No,Some of them,Yes,Maybe,Don't know
+Male,United States,No,Never,Yes,No,Yes,No,No,No,Some of them,Yes,Maybe,Yes
+Female,United States,No,Never,Yes,Yes,Yes,Yes,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Yes,Maybe,Some of them,Some of them,No,No
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,Rarely,Yes,Yes,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Yes
+Female,United States,Yes,Sometimes,Yes,Yes,Not sure,No,No,Yes,No,No,No,No
+Male,United States,No,,Yes,Don't know,No,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Yes,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,No,No,No,Don't know,Yes,Some of them,No,No,No
+Male,United States,No,Often,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Don't know
+Male,United States,No,,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Yes,Not sure,Don't know,Don't know,Maybe,No,No,No,No
+Male,United States,No,Sometimes,Yes,No,Yes,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,No,Sometimes,Yes,Don't know,No,No,Don't know,Yes,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,No,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,Rarely,Yes,Yes,No,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Often,Yes,No,Not sure,No,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,No,Yes,Don't know,No,Some of them,Some of them,Maybe,Yes
+Female,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,No,No,No,No,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,No,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,No,Don't know,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Yes,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,Yes,Not sure,No,No,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,Don't know,Maybe,No,No,No,Don't know
+Female,United States,Yes,Rarely,Yes,Don't know,No,No,No,Yes,No,No,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Not sure,No,Yes,No,Yes,Yes,No,Yes
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Yes,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,,Yes,No,No,No,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Yes,Yes,No,Don't know
+Male,United States,No,Never,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Yes,Yes,Yes,Don't know
+Female,United States,No,,Yes,Don't know,Not sure,No,Don't know,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,No,Yes,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Yes,Some of them,No,No,No
+Male,United States,No,,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Maybe,Yes
+Male,United States,No,,Yes,Yes,Not sure,No,Don't know,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Never,Yes,Don't know,No,Yes,Don't know,Yes,Some of them,Yes,No,No
+Male,United States,No,,Yes,Don't know,Not sure,No,No,No,Yes,Yes,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,No,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,Yes,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,Yes,Don't know,Yes,No,No,No,No
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,Yes,Don't know,Yes,Some of them,No,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,No,No,No
+Female,United States,Yes,Never,Yes,Yes,No,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Maybe,Yes,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,No,No,No,No
+Female,United States,No,,Yes,Don't know,Not sure,No,Yes,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Don't know
+Male,United States,No,,Yes,Don't know,No,No,No,No,Yes,Yes,No,Don't know
+Male,United States,No,,Yes,Don't know,No,No,No,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Often,Yes,Don't know,Not sure,No,No,Yes,Some of them,Some of them,No,No
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Yes,Some of them,Some of them,No,No
+Male,United States,No,Never,Yes,Yes,Yes,No,No,Maybe,Some of them,Yes,No,No
+Female,United States,Yes,Often,Yes,Yes,No,No,Don't know,Yes,Some of them,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Some of them,No,No,Yes
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,,Yes,Yes,No,No,No,Yes,No,No,No,Don't know
+Female,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,No,No,Yes
+Non-binary_or_trans_or_other,United States,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Some of them,Some of them,No,No
+Female,United States,No,,Yes,Don't know,No,No,Don't know,No,No,Some of them,No,Yes
+Male,United States,No,,Yes,Don't know,Not sure,No,Don't know,No,Yes,Yes,Maybe,Yes
+Male,United States,No,Sometimes,Yes,Yes,Yes,No,Yes,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Never,Yes,No,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,No,Sometimes,Yes,Don't know,Not sure,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Some of them,No,No,Yes
+Male,United States,No,Never,Yes,No,Yes,No,No,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,Yes,No,Yes,Yes,No,Some of them,Yes,No,Don't know
+Female,United States,No,Often,Yes,Don't know,No,No,No,Yes,No,Some of them,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Yes,Not sure,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Not sure,Don't know,No,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Yes,No,No,No,Don't know
+Female,United States,Yes,Often,Yes,Yes,Yes,No,No,No,Some of them,Yes,No,No
+Female,United States,No,,Yes,Don't know,No,No,Don't know,Yes,No,No,No,No
+Male,United States,No,Rarely,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Yes,Yes,Maybe,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,Yes,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Yes,Don't know,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes
+Male,United States,No,Rarely,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Maybe,No,No,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,No,Don't know,Maybe,No,Some of them,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,No,No,Some of them,Yes,No,Don't know
+Male,United States,No,,Yes,No,No,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Often,Yes,No,Yes,No,No,Yes,Some of them,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,,Yes,No,Yes,No,No,Maybe,Some of them,Yes,Maybe,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,Yes,Yes,Yes,Yes
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Yes,No,Yes,No,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Never,Yes,Yes,Yes,No,Don't know,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,Some of them,Some of them,No,Yes
+Male,United States,No,Never,Yes,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Maybe,Yes
+Male,United States,No,Never,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,No,No,Don't know,No,Some of them,Yes,Yes,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,No,No,No
+Male,United States,No,Sometimes,Yes,Yes,No,Yes,Yes,Maybe,Some of them,Yes,Maybe,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Never,Yes,Yes,No,Don't know,Yes,Yes,Some of them,No,Maybe,No
+Male,United States,Yes,Often,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,No,Yes,No,No,No,Some of them,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Don't know,No,No,Don't know,No,Some of them,Yes,No,No
+Female,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,Yes
+Male,United States,No,Never,Yes,No,Yes,No,No,No,Some of them,Some of them,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No
+Male,United States,No,,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,Don't know
+Male,United States,Yes,Never,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,Yes,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Yes,No,Yes,No,Yes,Yes,No,Don't know
+Male,United States,No,Never,Yes,No,Yes,No,No,Maybe,Some of them,Some of them,Maybe,Don't know
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Yes,Maybe,Yes
+Female,United States,Yes,Often,Yes,Don't know,Not sure,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,,Yes,Yes,No,Don't know,Don't know,No,Yes,Yes,Yes,Yes
+Male,United States,No,Sometimes,Yes,Yes,No,Yes,No,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Yes,Yes,Yes,Yes,No,Some of them,Some of them,Maybe,Yes
+Male,United States,No,,Yes,Yes,No,No,No,No,Yes,Yes,Maybe,Don't know
+Male,United States,No,Never,Yes,Don't know,No,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Often,Yes,Don't know,No,No,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,No,Not sure,No,No,Yes,No,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,Yes,Maybe,Some of them,Some of them,Yes,No
+Male,United States,Yes,Often,Yes,Don't know,No,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Maybe,Some of them,No,No,No
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Yes,Some of them,No,No,No
+Male,United States,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Rarely,Yes,Don't know,No,No,Don't know,Yes,Some of them,No,No,Don't know
+Male,United States,No,,Yes,No,No,No,No,Maybe,Some of them,Yes,Maybe,Don't know
+Male,United States,Yes,Rarely,Yes,Yes,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,No
+Male,United States,No,Sometimes,Yes,No,Not sure,No,No,Yes,No,No,No,No
+Male,United States,Yes,Rarely,Yes,Don't know,Not sure,No,Don't know,No,Yes,Yes,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Often,Yes,Don't know,Not sure,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Sometimes,Yes,Yes,Not sure,Yes,Yes,No,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,No,Some of them,No,No,Yes
+Male,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,Don't know,No,Yes,Yes,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,No,Yes,Yes,Maybe,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,Some of them,No,Maybe,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,No,Some of them,Yes,Maybe,Yes
+Female,United States,No,,Yes,Don't know,Not sure,No,No,Yes,No,No,No,Don't know
+Female,United States,No,Never,Yes,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Yes
+Female,United States,No,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,No,Don't know
+Male,United States,No,Sometimes,Yes,Yes,Not sure,Yes,Yes,Yes,Some of them,Some of them,No,Yes
+Female,United States,No,,Yes,Don't know,Not sure,No,No,No,Yes,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Rarely,Yes,Don't know,No,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,Sometimes,Yes,Don't know,No,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,No,Never,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Yes,Maybe,Yes
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,No,No,Some of them,Yes,Maybe,Don't know
+Female,United States,No,Never,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,No,No,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Don't know,Not sure,Don't know,Don't know,No,Yes,Yes,Maybe,Yes
+Female,United States,Yes,Often,Yes,No,No,No,No,Yes,No,No,No,No
+Female,United States,No,Sometimes,Yes,No,Not sure,No,No,No,Some of them,Yes,No,Yes
+Male,United States,No,,Yes,No,No,No,No,No,No,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Don't know,No,No,No,Yes,Some of them,Some of them,No,No
+Male,United States,No,,Yes,Yes,No,Don't know,Yes,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,No,Some of them,Yes,No,No
+Male,United States,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,No,Some of them,Yes,No,Yes
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Yes,Maybe,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,No,Maybe,Some of them,Yes,No,Yes
+Female,United States,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Maybe,Some of them,No,No,No
+Male,United States,No,Never,Yes,Don't know,No,No,No,No,No,No,No,Don't know
+Male,United States,Yes,Often,Yes,Don't know,No,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,No,Never,Yes,Yes,Not sure,Don't know,Don't know,Maybe,No,Some of them,No,Don't know
+Female,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Some of them,Some of them,No,No
+Male,United States,No,Sometimes,Yes,Yes,Not sure,No,Yes,Maybe,No,No,No,Don't know
+Male,United States,No,Rarely,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,No,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,No,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Female,United States,Yes,Often,Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Some of them,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Often,Yes,No,Yes,No,No,Maybe,Yes,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,No,Some of them,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,No,Yes
+Male,United States,No,Never,Yes,No,Yes,No,No,No,Some of them,Some of them,No,Yes
+Male,United States,Yes,Often,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Male,United States,Yes,Rarely,Yes,Don't know,No,No,No,No,Yes,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Not sure,Yes,Don't know,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,No,Never,Yes,Don't know,No,No,Don't know,No,Yes,Some of them,No,Yes
+Male,United States,No,,Yes,Yes,Not sure,No,Yes,Maybe,Some of them,Yes,Maybe,Don't know
+Male,United States,No,Sometimes,Yes,Don't know,Not sure,No,No,Maybe,Some of them,No,No,Don't know
+Female,United States,No,Sometimes,Yes,Don't know,No,No,No,No,Yes,Some of them,No,Yes
+Male,United States,No,Never,Yes,Yes,No,No,No,Yes,Some of them,No,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,No,Don't know,Maybe,No,Some of them,No,Don't know
+Female,United States,Yes,Often,Yes,Yes,Yes,Don't know,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,No,Yes,Yes,Maybe,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Yes,No,Don't know,Yes,No,Some of them,No,Don't know
+Male,United States,No,Never,Yes,No,Yes,No,No,Yes,No,No,No,Don't know
+Male,United States,No,,Yes,Don't know,Not sure,Don't know,Don't know,No,No,No,No,Yes
+Female,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Some of them,Maybe,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Don't know
+Female,United States,No,Sometimes,Yes,Don't know,No,No,No,Maybe,No,No,No,Don't know
+Male,United States,No,Rarely,Yes,Yes,Not sure,No,Don't know,Maybe,No,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Rarely,Yes,No,Yes,No,No,No,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,Don't know
+Male,United States,No,Sometimes,Yes,Yes,No,Yes,Don't know,Maybe,Yes,Yes,No,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Maybe,Some of them,No,No,No
+Male,United States,No,,Yes,Don't know,Not sure,No,No,Maybe,Some of them,Yes,Maybe,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+Male,United States,No,,Yes,Don't know,No,No,No,No,Some of them,Yes,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,No,No,No,Maybe,No,No,No,No
+Male,United States,No,Never,Yes,No,No,No,Don't know,No,Some of them,Yes,No,No
+Female,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,No
+Female,United States,Yes,Sometimes,Yes,No,No,No,No,Maybe,Some of them,Some of them,No,Yes
+Female,United States,Yes,Often,Yes,No,Yes,No,No,Yes,Some of them,Some of them,No,Don't know
+Female,United States,No,Rarely,Yes,Don't know,Not sure,Don't know,Don't know,Maybe,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,No,No,No,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Maybe,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Often,Yes,Yes,Not sure,No,Don't know,Yes,Some of them,No,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,No,No,No,Yes,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,No,Yes,No,No,Maybe,Some of them,Yes,No,No
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,Maybe,Some of them,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Don't know
+Male,United States,Yes,Often,Yes,Don't know,No,No,No,Maybe,Some of them,No,No,No
+Male,United States,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,No,Some of them,Yes,Yes,Don't know
+Male,United States,Yes,Sometimes,Yes,Don't know,Yes,No,No,Yes,Some of them,Some of them,No,Don't know
+Male,United States,Yes,Often,Yes,Don't know,No,Yes,Don't know,Maybe,Some of them,No,No,Don't know
+Female,United States,Yes,Rarely,Yes,Yes,Yes,No,Yes,No,Some of them,Yes,No,Don't know
+Male,United States,No,Never,Yes,Yes,Not sure,Don't know,Yes,No,No,Some of them,Maybe,Don't know
+Female,United States,Yes,Sometimes,Yes,Yes,No,No,Don't know,Yes,No,No,No,Don't know
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Yes
+Male,United States,Yes,Often,Yes,Yes,Not sure,Yes,Yes,No,Some of them,Yes,Maybe,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Some of them,No,No,No
+Male,United States,Yes,Often,Yes,Yes,Yes,No,No,No,Some of them,Yes,No,Yes
+Male,United States,Yes,Sometimes,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Female,United States,No,,Yes,No,Yes,No,No,Yes,No,No,No,No
