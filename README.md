@@ -7,8 +7,8 @@
 - [x] Milestone 2 - Load your dataset, explain it, and define your research questions
 - [x] Milestone 3 - Exploratory Data Analysis (EDA)
 - [x] Milestone 4 - Visualizations, Analysis, and Pipeline
-- [ ] Milestone 5 - Present your Dashboard!
-- [ ] Milestone 6 - Address Feedback and Refine project
+- [x] Milestone 5 - Present your Dashboard!
+- [x] Milestone 6 - Address Feedback and Refine project
 
 ## Describe your topic/interest in about 150-200 words
 
